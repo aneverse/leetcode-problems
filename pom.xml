@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.aneverse</groupId>
-    <artifactId>Leet Code Problems</artifactId>
+    <artifactId>leet-code-problems</artifactId>
     <version>1.0</version>
 
     <properties>
